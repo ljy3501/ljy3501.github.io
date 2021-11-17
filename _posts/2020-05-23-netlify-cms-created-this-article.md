@@ -10,6 +10,7 @@ keywords: using netlify cms with devlopr-jekyll, devlopr jekyll netlify cms, how
 permalink: /blog/using-netlify-cms/
 ---
 # Hello World ,
+
 &nbsp;
 This page is a demo that shows everything you can do inside blog posts. Hi !
 
@@ -24,6 +25,7 @@ You can create lists:
 * Are cool
 
 ## hello
+
 &nbsp;
 And:
 
