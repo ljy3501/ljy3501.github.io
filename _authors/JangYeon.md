@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: JangYeon
 username: JangYeon
 bio: "안녕하세요 저는 이장연 입니다."
 site: http://johndoe.com
