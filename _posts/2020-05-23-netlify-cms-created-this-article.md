@@ -11,8 +11,6 @@ permalink: /blog/using-netlify-cms/
 ---
 # Hello World ,
 
-　
-
 This page is a demo that shows everything you can do inside blog posts. Hi !
 
 We’ve included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
@@ -25,9 +23,8 @@ You can create lists:
 * Like this one
 * Are cool
 
-## hello
-
 　
+## hello
 
 And:
 
